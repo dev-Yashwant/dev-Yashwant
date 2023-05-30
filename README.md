@@ -1,8 +1,8 @@
-👋 Hi, I’m @dev-Yashwant
-👀 I’m interested in exploring the fascinating world of software development and technology.
-🌱 I’m currently learning various programming languages and frameworks to enhance my skills and expand my knowledge.
-💞️ I’m looking to collaborate on exciting projects that challenge me and allow me to contribute to the open-source community.
-📫 You can reach me through email at yashwantc19@gmail.com .
+👋 Hi, I’m @dev-Yashwant<br>
+👀 I’m interested in exploring the fascinating world of software development and technology.<br>
+🌱 I’m currently learning various programming languages and frameworks to enhance my skills and expand my knowledge.<br>
+💞️ I’m looking to collaborate on exciting projects that challenge me and allow me to contribute to the open-source community.<br>
+📫 You can reach me through email at yashwantc19@gmail.com .<br>
 
 
 <!---
