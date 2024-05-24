@@ -25,6 +25,11 @@
 
 <br/>
 
+<h3 align="left">My live projects</h3>
+<br/>
+<a href= "https://emailscan.in/" target="blank" align="center"/>www.emailscan.in<a>
+<a href= "https://www.rapid-email.com/" target="blank" align="center"/>www.rapid-email.com<a>
+<br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-yashwant" alt="dev-yashwant" /></a> </p>
 
 
